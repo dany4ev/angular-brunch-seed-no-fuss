@@ -1,6 +1,8 @@
 # angular-brunch-seed-no-fuss
 ### A starter project for AngularJS using Brunch.io
 
+#### /!\ This project is outdated, you can use it as a reference but you probably shouldn't use it as it is.
+
 [AngularJS](http://angularjs.org) + [Brunch](http://brunch.io)
 
 Features:
